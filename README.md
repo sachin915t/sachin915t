@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="align: center;">
     <img  src="https://eportfolio.utm.my/artefact/file/download.php?file=682041&view=171850&embedded=1&text=691127" alt="" width="800px">
 </div>
 
