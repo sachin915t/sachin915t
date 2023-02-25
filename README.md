@@ -4,13 +4,14 @@
 
 <h1 align="center">Hi 👋, I'm Sachin Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" src="https://cdn1.forevergeek.com/uploads/33/2015/02/pi.jpg" alt="">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin915t&label=Profile%20views&color=0e75b6&style=flat" alt="sachin915t" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin915t" alt="sachin915t" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/logan915t" target="blank"><img src="https://img.shields.io/twitter/follow/logan915t?logo=twitter&style=for-the-badge" alt="logan915t" /></a> </p>
+<img align="right" src="https://cdn1.forevergeek.com/uploads/33/2015/02/pi.jpg" alt="">
 
 - 🔭 I’m currently working on My Bloging Site [Logan's Blog](https://sachin-blog.vercel.app/)
 
