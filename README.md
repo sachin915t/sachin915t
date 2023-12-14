@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin915t" alt="sachin915t" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/logan915t" target="blank"><img src="https://img.shields.io/twitter/follow/logan915t?logo=twitter&style=for-the-badge" alt="logan915t" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sachiin_maurya" target="blank"><img src="https://img.shields.io/twitter/follow/logan915t?logo=twitter&style=for-the-badge" alt="logan915t" /></a> </p>
 
 - 🔭 I’m currently working on My Bloging Site [Logan's Blog](https://sachin-blog.vercel.app/)
 
@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sachin-anim-web-pro.vercel.app/](https://sachin-anim-web-pro.vercel.app/)
 
-- 📝 I regularly write articles on [https://sachin-blog.vercel.app/](https://sachin-blog.vercel.app/)
+- 📝 I regularly write articles on [https://sachin-blog.vercel.app/](https://sachin-blog.vercel.app/
 
 - 💬 Ask me about **Javascript,C++**
 
@@ -32,7 +32,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sachin915t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sachin915t" height="30" width="40" /></a>
-<a href="https://twitter.com/logan915t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="logan915t" height="30" width="40" /></a>
+<a href="https://twitter.com/sachiin_maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="logan915t" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sachin maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin maurya" height="30" width="40" /></a>
 <a href="https://fb.com/sachin maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachin maurya" height="30" width="40" /></a>
 <a href="https://instagram.com/sachiinmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachiinmaurya" height="30" width="40" /></a>
