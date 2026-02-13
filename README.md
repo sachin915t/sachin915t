@@ -1,5 +1,5 @@
  <div style="text-align: center;">
-   <h1 align="center">Namaskar 🙏 , I'm Sachin</h1>
+   <h1 align="center">Namaskar 🙏 , I'm Sachiin</h1>
 <h3 align="center">I study data, models, and systems that learn.</h3>
        
   <img src = "https://i.pinimg.com/1200x/e7/34/5f/e7345fa165148272ee631b3b90cbd701.jpg" alt = "" width = "900px"> 
