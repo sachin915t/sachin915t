@@ -10,6 +10,18 @@
   - Web [https://sachinai.in](https://sachinai.in)
 
 
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin915t&theme=tokyonight" />
+
+</p>
+
+## 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sachin915t?theme=dark&font=Karma"/>
+</p>
+
+
 <p align="center"><img src="https://newscenter.lbl.gov/wp-content/uploads/2022/01/allframe-1000mpc-960x540-1.gif"></p> 
     
 
