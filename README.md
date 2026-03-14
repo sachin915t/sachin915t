@@ -12,7 +12,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin915t&theme=tokyonight&hide_border=false&mode=daily&fire=FF4B4B&ring=FF4B4B&currStreakLabel=FF4B4B&sideLabels=FFFFFF&dates=AAAAAA" />
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sachin915t&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
 ## 🧠 LeetCode Stats
