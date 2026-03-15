@@ -47,9 +47,7 @@ I explore how machines learn, how data behaves, and how systems scale.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin915t&theme=github_dark&hide_border=True"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sachin915t&theme=soft-green"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin915t&layout=compact&theme=github_dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin915t&theme=tokyonight&hide_border=false&mode=daily&fire=FF4B4B&ring=FF4B4B&currStreakLabel=FF4B4B&sideLabels=FFFFFF&dates=AAAAAA"/>
 
 </p>
 
